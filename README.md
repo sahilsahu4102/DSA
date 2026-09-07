@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sahilsahu4102/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sahilsahu4102/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sahilsahu4102/DSA/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/sahilsahu4102/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sahilsahu4102/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sahilsahu4102/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sahilsahu4102/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahilsahu4102/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sahilsahu4102/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sahilsahu4102/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sahilsahu4102/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahilsahu4102/DSA/tree/master/0217-contains-duplicate) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sahilsahu4102/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sahilsahu4102/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilsahu4102/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sahilsahu4102/DSA/tree/master/0169-majority-element) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sahilsahu4102/DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/sahilsahu4102/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sahilsahu4102/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sahilsahu4102/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sahilsahu4102/DSA/tree/master/0344-reverse-string) |
