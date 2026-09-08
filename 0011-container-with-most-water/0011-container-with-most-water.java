@@ -9,9 +9,9 @@ class Solution {
                 best=curr;
             }
             int minn=Math.min(height[l],height[h]);
-            if(minn==height[l]){
+            while(height[l]<=minn&&l<h){
                 l++;
-            }else if(minn==height[h]){
+            }while(height[h]<=minn&&l<h){
                 h--;
             }
         }
