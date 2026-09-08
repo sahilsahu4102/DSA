@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sahilsahu4102/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sahilsahu4102/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sahilsahu4102/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/sahilsahu4102/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahilsahu4102/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilsahu4102/DSA/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sahilsahu4102/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
