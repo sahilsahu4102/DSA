@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahilsahu4102/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sahilsahu4102/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/sahilsahu4102/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/sahilsahu4102/DSA/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahilsahu4102/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sahilsahu4102/DSA/tree/master/1051-height-checker) |
 ## Two Pointers
@@ -162,8 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilsahu4102/DSA/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/sahilsahu4102/DSA/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilsahu4102/DSA/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sahilsahu4102/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
