@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sahilsahu4102/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilsahu4102/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilsahu4102/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sahilsahu4102/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilsahu4102/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sahilsahu4102/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sahilsahu4102/DSA/tree/master/0189-rotate-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sahilsahu4102/DSA/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sahilsahu4102/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sahilsahu4102/DSA/tree/master/0189-rotate-array) |
 ## Counting
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilsahu4102/DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sahilsahu4102/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/sahilsahu4102/DSA/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
