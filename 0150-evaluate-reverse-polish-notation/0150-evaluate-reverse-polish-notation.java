@@ -1,37 +1,35 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<Integer> st=new Stack<>();
-        for(int i=0;i<tokens.length;i++){
-            if (!tokens[i].equals("+") &&
-    !tokens[i].equals("-") &&
-    !tokens[i].equals("*") &&
-    !tokens[i].equals("/")) {
-
-    st.push(Integer.parseInt(tokens[i]));
-}
-            if(tokens[i].equals("+")){
-                int sum=0;
-                sum+=st.pop();
-                sum+=st.pop();
-                st.push(sum);
+        int[] stack = new int[tokens.length];
+        int top = -1;
+        for (String op : tokens) {
+            switch (op) {
+                case "+":
+                    int first = stack[top--];
+                    int second = stack[top--];
+                    stack[++top] = first + second;
+                    break;
+                case "-":
+                    first = stack[top--];
+                    second = stack[top--];
+                    stack[++top] = second - first;
+                    break;
+                case "*":
+                    first = stack[top--];
+                    second = stack[top--];
+                    stack[++top] = first * second;
+                    break;
+                case "/":
+                    first = stack[top--];
+                    second = stack[top--];
+                    stack[++top] = second / first;
+                    break;
+                default:
+                    stack[++top] = Integer.parseInt(op);
+                    break;
             }
-            if(tokens[i].equals("-")){
-                int num2=st.pop();
-                int num1=st.pop();
-                st.push(num1-num2);
-            }
-            if(tokens[i].equals("*")){
-                int num2=st.pop();
-                int num1=st.pop();
-                st.push(num1*num2);
-            }
-            if(tokens[i].equals("/")){
-                int num2=st.pop();
-                int num1=st.pop();
-                st.push(num1/num2);
-            }
-            
         }
-        return st.peek();
+
+        return stack[top];
     }
 }
