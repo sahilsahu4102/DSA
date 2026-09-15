@@ -4,12 +4,12 @@ class Solution {
             return false;
         }
         int k=s1.length();
-        int[] freq=new int[26];
+        char[] freq=new char[26];
         for(int i=0;i<s1.length();i++){
             freq[s1.charAt(i)-'a']++;
         }
         int left=0;
-        int[] freq2=new int[26];
+        char[] freq2=new char[26];
         for(int i=0;i<k;i++){
             freq2[s2.charAt(i)-'a']++;
         }
