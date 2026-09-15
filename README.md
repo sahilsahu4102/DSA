@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahilsahu4102/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sahilsahu4102/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sahilsahu4102/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/sahilsahu4102/DSA/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahilsahu4102/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahilsahu4102/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahilsahu4102/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilsahu4102/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/sahilsahu4102/DSA/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sahilsahu4102/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sahilsahu4102/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilsahu4102/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/sahilsahu4102/DSA/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilsahu4102/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/sahilsahu4102/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sahilsahu4102/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahilsahu4102/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting Sort
