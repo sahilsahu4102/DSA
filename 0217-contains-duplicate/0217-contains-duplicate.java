@@ -5,7 +5,6 @@ class Solution {
             if(!seen.add(nums[i])){
                 return true;
             }
-            seen.add(nums[i]);
         }
         return false;
     }
