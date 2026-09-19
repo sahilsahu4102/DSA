@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sahilsahu4102/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sahilsahu4102/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sahilsahu4102/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/sahilsahu4102/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/sahilsahu4102/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sahilsahu4102/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sahilsahu4102/DSA/tree/master/0739-daily-temperatures) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahilsahu4102/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahilsahu4102/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilsahu4102/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/sahilsahu4102/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sahilsahu4102/DSA/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilsahu4102/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilsahu4102/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/sahilsahu4102/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sahilsahu4102/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sahilsahu4102/DSA/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
@@ -199,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sahilsahu4102/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sahilsahu4102/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
