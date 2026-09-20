@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sahilsahu4102/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sahilsahu4102/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/sahilsahu4102/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sahilsahu4102/DSA/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sahilsahu4102/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sahilsahu4102/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sahilsahu4102/DSA/tree/master/0739-daily-temperatures) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sahilsahu4102/DSA/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilsahu4102/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/sahilsahu4102/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sahilsahu4102/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sahilsahu4102/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sahilsahu4102/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/sahilsahu4102/DSA/tree/master/0844-backspace-string-compare) |
@@ -211,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sahilsahu4102/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sahilsahu4102/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sahilsahu4102/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
