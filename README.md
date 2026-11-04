@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilsahu4102/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sahilsahu4102/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sahilsahu4102/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sahilsahu4102/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahilsahu4102/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sahilsahu4102/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/sahilsahu4102/DSA/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilsahu4102/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sahilsahu4102/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sahilsahu4102/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahilsahu4102/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahilsahu4102/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahilsahu4102/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahilsahu4102/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sahilsahu4102/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilsahu4102/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sahilsahu4102/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sahilsahu4102/DSA/tree/master/0567-permutation-in-string) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilsahu4102/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sahilsahu4102/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahilsahu4102/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sahilsahu4102/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahilsahu4102/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sahilsahu4102/DSA/tree/master/1051-height-checker) |
 ## Divide and Conquer
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahilsahu4102/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilsahu4102/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sahilsahu4102/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sahilsahu4102/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -117,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sahilsahu4102/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sahilsahu4102/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
