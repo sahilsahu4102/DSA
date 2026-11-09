@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahilsahu4102/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilsahu4102/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sahilsahu4102/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sahilsahu4102/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahilsahu4102/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sahilsahu4102/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sahilsahu4102/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/sahilsahu4102/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahilsahu4102/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sahilsahu4102/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sahilsahu4102/DSA/tree/master/0693-binary-number-with-alternating-bits) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sahilsahu4102/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sahilsahu4102/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sahilsahu4102/DSA/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sahilsahu4102/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
